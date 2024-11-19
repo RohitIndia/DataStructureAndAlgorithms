@@ -1,7 +1,5 @@
 package com.ds.arrays;
 
-import com.sun.xml.internal.bind.v2.runtime.output.StAXExStreamWriterOutput;
-
 public class Main1 {
 
     public static void main(String[] args) {
